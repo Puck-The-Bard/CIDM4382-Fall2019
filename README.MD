@@ -23,4 +23,10 @@ Very useful links:
     3. Using NPM: `npm install -g heroku`
 2. Ensure the *engines* section of `package.json` has beed added
 3. Ensure that a Procfile has been created which contains: `web: npm start`
-4. 
+4. You can test heroku compatitbility with `heroku local`
+5. run `heroku create`
+6. updates: 
+    1. `git add --all`
+    2. `git commite -m 'message'`
+    2. `git push heroku master`
+5. View on heroku: `heroku open`
