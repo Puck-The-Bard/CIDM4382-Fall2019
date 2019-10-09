@@ -5,6 +5,7 @@ Code:
 * Getting MEAN
 * VATSIM Harvester
 * ZAB Phraseology Helper
+* Mongoose Example
 
 Very useful links:
 * [Emmet Cheat Sheet](https://docs.emmet.io/cheat-sheet/)
